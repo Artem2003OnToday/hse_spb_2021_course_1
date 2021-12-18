@@ -4,7 +4,7 @@ import get_stocks
 import datetime
 import collections
 
-bot_token = "2132506762:AAEFLHpFn6GP44hNUcgIcaOepxDlGn7H2CA"
+bot_token = ""
 bot = telebot.TeleBot(bot_token)
 
 table = sql_connection()
